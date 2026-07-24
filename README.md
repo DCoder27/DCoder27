@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Priyatosh Pal
-### 🚀 2nd Year BTech CSE Student | Full Stack Web Developer
+### 🚀 3rd Year BTech CSE Student | Full Stack Web Developer
 
 I’m a **Computer Science Engineering student (BTech CSE '28)** passionate about building modern web applications and learning core computer science concepts. I enjoy solving problems, building projects, and continuously improving my development skills.
 
@@ -7,7 +7,7 @@ I’m a **Computer Science Engineering student (BTech CSE '28)** passionate abou
 
 ## 👨‍💻 About Me
 
-- 🎓 **2nd Year BTech Student – Computer Science & Engineering**
+- 🎓 **3rd Year BTech Student – Computer Science & Engineering**
 - 💻 **Full Stack Web Developer**
 - 🌱 Currently improving my skills in **Full Stack Development and Core CS Subjects**
 - 🤝 Open to **collaborations on interesting projects**
