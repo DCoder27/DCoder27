@@ -59,14 +59,6 @@ I love **technology, development, and learning how things work internally**.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 💻 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
